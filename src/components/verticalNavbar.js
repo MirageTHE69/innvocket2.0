@@ -1,6 +1,7 @@
 import React from 'react';
 
 function VerticalNavbar() {
+  
   return (
     <div className="h-screen w-3/12 flex p-6">
       <div className="w-full bg-[#181c20] rounded-3xl p-10 border-r flex flex-col">
