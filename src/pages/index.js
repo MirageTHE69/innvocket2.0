@@ -8,9 +8,11 @@ import * as styles from "../components/index.module.css"
 
 const IndexPage = () => {
   return(
+    <Layout>
     <div>
       Hello
     </div>
+    </Layout>
   )
   
 }
