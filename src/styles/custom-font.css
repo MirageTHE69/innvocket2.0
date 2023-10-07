@@ -1,0 +1,8 @@
+/* src/styles/custom-font.css */
+@font-face {
+  font-family: "League Gothic";
+  src: url("../fonts/LeagueGothic-Regular-VariableFont_wdth.ttf")
+    format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
